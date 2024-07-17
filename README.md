@@ -1,6 +1,10 @@
 
 # 💫 Hi there 👋 :
-I'm Gida, a dedicated Software Engineer with a passion for mobile development.<br>My expertise lies in crafting beautiful and user-friendly applications, with a particular love for Jetpack Compose.<br>Currently, I'm exploring Kotlin Multiplatform (KMP) to broaden my skill set and uncover new opportunities in the mobile development landscape
+I'm Gida, a Software Engineer with a strong dedication to mobile development. My specialty is in building attractive and easy-to-use apps, and I’m particularly fond of working with Jetpack Compose. At present, I’m learning Kotlin Multiplatform (KMP) to further my abilities and explore new mobile development opportunities.
+
+I have a deep passion for creating scalable and high-performance apps, ensuring they run smoothly and efficiently. I adhere to clean architecture principles and frequently implement patterns like MVI and MVVM to maintain a robust codebase.
+
+My love for Kotlin drives my development process, making it my language of choice for building mobile applications. Additionally, I'm fascinated by AI and actively exploring the latest trends. I aim to leverage AI advancements to enhance mobile development and create smarter, more intuitive apps.
 
 
 ## 🌐 Socials:
